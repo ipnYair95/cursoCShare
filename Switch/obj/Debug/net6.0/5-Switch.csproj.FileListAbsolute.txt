@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Switch\bin\Debug\net6.0\5-Switch.exe
+C:\Desarrollos\C#\1-Variables\Switch\bin\Debug\net6.0\5-Switch.deps.json
+C:\Desarrollos\C#\1-Variables\Switch\bin\Debug\net6.0\5-Switch.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Switch\bin\Debug\net6.0\5-Switch.dll
+C:\Desarrollos\C#\1-Variables\Switch\bin\Debug\net6.0\5-Switch.pdb
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.dll
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\refint\5-Switch.dll
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.pdb
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\5-Switch.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Switch\obj\Debug\net6.0\ref\5-Switch.dll

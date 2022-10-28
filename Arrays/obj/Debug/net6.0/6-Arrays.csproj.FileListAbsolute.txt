@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Arrays\bin\Debug\net6.0\6-Arrays.exe
+C:\Desarrollos\C#\1-Variables\Arrays\bin\Debug\net6.0\6-Arrays.deps.json
+C:\Desarrollos\C#\1-Variables\Arrays\bin\Debug\net6.0\6-Arrays.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Arrays\bin\Debug\net6.0\6-Arrays.dll
+C:\Desarrollos\C#\1-Variables\Arrays\bin\Debug\net6.0\6-Arrays.pdb
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.dll
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\refint\6-Arrays.dll
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.pdb
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\6-Arrays.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Arrays\obj\Debug\net6.0\ref\6-Arrays.dll

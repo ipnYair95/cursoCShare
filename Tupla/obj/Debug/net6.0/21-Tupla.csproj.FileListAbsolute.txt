@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Tupla\bin\Debug\net6.0\21-Tupla.exe
+C:\Desarrollos\C#\1-Variables\Tupla\bin\Debug\net6.0\21-Tupla.deps.json
+C:\Desarrollos\C#\1-Variables\Tupla\bin\Debug\net6.0\21-Tupla.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Tupla\bin\Debug\net6.0\21-Tupla.dll
+C:\Desarrollos\C#\1-Variables\Tupla\bin\Debug\net6.0\21-Tupla.pdb
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.dll
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\refint\21-Tupla.dll
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.pdb
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\21-Tupla.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Tupla\obj\Debug\net6.0\ref\21-Tupla.dll

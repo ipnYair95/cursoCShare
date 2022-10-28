@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\While\bin\Debug\net6.0\7-While.exe
+C:\Desarrollos\C#\1-Variables\While\bin\Debug\net6.0\7-While.deps.json
+C:\Desarrollos\C#\1-Variables\While\bin\Debug\net6.0\7-While.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\While\bin\Debug\net6.0\7-While.dll
+C:\Desarrollos\C#\1-Variables\While\bin\Debug\net6.0\7-While.pdb
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.dll
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\refint\7-While.dll
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.pdb
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\7-While.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\While\obj\Debug\net6.0\ref\7-While.dll

@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\LINQ\bin\Debug\net6.0\23-LINQ.exe
+C:\Desarrollos\C#\1-Variables\LINQ\bin\Debug\net6.0\23-LINQ.deps.json
+C:\Desarrollos\C#\1-Variables\LINQ\bin\Debug\net6.0\23-LINQ.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\LINQ\bin\Debug\net6.0\23-LINQ.dll
+C:\Desarrollos\C#\1-Variables\LINQ\bin\Debug\net6.0\23-LINQ.pdb
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.dll
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\refint\23-LINQ.dll
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.pdb
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\23-LINQ.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\LINQ\obj\Debug\net6.0\ref\23-LINQ.dll

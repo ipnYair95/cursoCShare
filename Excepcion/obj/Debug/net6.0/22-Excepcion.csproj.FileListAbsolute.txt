@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Excepcion\bin\Debug\net6.0\22-Excepcion.exe
+C:\Desarrollos\C#\1-Variables\Excepcion\bin\Debug\net6.0\22-Excepcion.deps.json
+C:\Desarrollos\C#\1-Variables\Excepcion\bin\Debug\net6.0\22-Excepcion.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Excepcion\bin\Debug\net6.0\22-Excepcion.dll
+C:\Desarrollos\C#\1-Variables\Excepcion\bin\Debug\net6.0\22-Excepcion.pdb
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.dll
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\refint\22-Excepcion.dll
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.pdb
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\22-Excepcion.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Excepcion\obj\Debug\net6.0\ref\22-Excepcion.dll

@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\bin\Debug\net6.0\9-ClasesObjetos.exe
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\bin\Debug\net6.0\9-ClasesObjetos.deps.json
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\bin\Debug\net6.0\9-ClasesObjetos.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\bin\Debug\net6.0\9-ClasesObjetos.dll
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\bin\Debug\net6.0\9-ClasesObjetos.pdb
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.dll
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\refint\9-ClasesObjetos.dll
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.pdb
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\9-ClasesObjetos.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\ClasesObjetos\obj\Debug\net6.0\ref\9-ClasesObjetos.dll

@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\SobreEscritura\bin\Debug\net6.0\13-SobreEscritura.exe
+C:\Desarrollos\C#\1-Variables\SobreEscritura\bin\Debug\net6.0\13-SobreEscritura.deps.json
+C:\Desarrollos\C#\1-Variables\SobreEscritura\bin\Debug\net6.0\13-SobreEscritura.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\SobreEscritura\bin\Debug\net6.0\13-SobreEscritura.dll
+C:\Desarrollos\C#\1-Variables\SobreEscritura\bin\Debug\net6.0\13-SobreEscritura.pdb
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.dll
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\refint\13-SobreEscritura.dll
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.pdb
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\13-SobreEscritura.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\SobreEscritura\obj\Debug\net6.0\ref\13-SobreEscritura.dll

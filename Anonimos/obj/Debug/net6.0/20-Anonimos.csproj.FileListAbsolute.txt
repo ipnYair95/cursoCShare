@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Anonimos\bin\Debug\net6.0\20-Anonimos.exe
+C:\Desarrollos\C#\1-Variables\Anonimos\bin\Debug\net6.0\20-Anonimos.deps.json
+C:\Desarrollos\C#\1-Variables\Anonimos\bin\Debug\net6.0\20-Anonimos.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Anonimos\bin\Debug\net6.0\20-Anonimos.dll
+C:\Desarrollos\C#\1-Variables\Anonimos\bin\Debug\net6.0\20-Anonimos.pdb
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.dll
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\refint\20-Anonimos.dll
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.pdb
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\20-Anonimos.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Anonimos\obj\Debug\net6.0\ref\20-Anonimos.dll

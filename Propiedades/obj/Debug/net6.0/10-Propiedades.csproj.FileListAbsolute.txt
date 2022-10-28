@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Propiedades\bin\Debug\net6.0\10-Propiedades.exe
+C:\Desarrollos\C#\1-Variables\Propiedades\bin\Debug\net6.0\10-Propiedades.deps.json
+C:\Desarrollos\C#\1-Variables\Propiedades\bin\Debug\net6.0\10-Propiedades.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Propiedades\bin\Debug\net6.0\10-Propiedades.dll
+C:\Desarrollos\C#\1-Variables\Propiedades\bin\Debug\net6.0\10-Propiedades.pdb
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.dll
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\refint\10-Propiedades.dll
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.pdb
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\10-Propiedades.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Propiedades\obj\Debug\net6.0\ref\10-Propiedades.dll

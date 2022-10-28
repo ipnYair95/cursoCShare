@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Static\bin\Debug\net6.0\14-Static.exe
+C:\Desarrollos\C#\1-Variables\Static\bin\Debug\net6.0\14-Static.deps.json
+C:\Desarrollos\C#\1-Variables\Static\bin\Debug\net6.0\14-Static.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Static\bin\Debug\net6.0\14-Static.dll
+C:\Desarrollos\C#\1-Variables\Static\bin\Debug\net6.0\14-Static.pdb
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.dll
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\refint\14-Static.dll
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.pdb
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\14-Static.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Static\obj\Debug\net6.0\ref\14-Static.dll

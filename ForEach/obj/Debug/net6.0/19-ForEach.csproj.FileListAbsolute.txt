@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\ForEach\bin\Debug\net6.0\19-ForEach.exe
+C:\Desarrollos\C#\1-Variables\ForEach\bin\Debug\net6.0\19-ForEach.deps.json
+C:\Desarrollos\C#\1-Variables\ForEach\bin\Debug\net6.0\19-ForEach.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\ForEach\bin\Debug\net6.0\19-ForEach.dll
+C:\Desarrollos\C#\1-Variables\ForEach\bin\Debug\net6.0\19-ForEach.pdb
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.dll
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\refint\19-ForEach.dll
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.pdb
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\19-ForEach.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\ForEach\obj\Debug\net6.0\ref\19-ForEach.dll

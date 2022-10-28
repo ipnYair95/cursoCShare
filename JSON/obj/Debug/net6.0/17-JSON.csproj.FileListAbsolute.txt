@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\JSON\bin\Debug\net6.0\17-JSON.exe
+C:\Desarrollos\C#\1-Variables\JSON\bin\Debug\net6.0\17-JSON.deps.json
+C:\Desarrollos\C#\1-Variables\JSON\bin\Debug\net6.0\17-JSON.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\JSON\bin\Debug\net6.0\17-JSON.dll
+C:\Desarrollos\C#\1-Variables\JSON\bin\Debug\net6.0\17-JSON.pdb
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.dll
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\refint\17-JSON.dll
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.pdb
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\17-JSON.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\JSON\obj\Debug\net6.0\ref\17-JSON.dll

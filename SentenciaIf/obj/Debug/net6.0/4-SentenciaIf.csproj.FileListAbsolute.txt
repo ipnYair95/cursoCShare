@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\SentenciaIf\bin\Debug\net6.0\4-SentenciaIf.exe
+C:\Desarrollos\C#\1-Variables\SentenciaIf\bin\Debug\net6.0\4-SentenciaIf.deps.json
+C:\Desarrollos\C#\1-Variables\SentenciaIf\bin\Debug\net6.0\4-SentenciaIf.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\SentenciaIf\bin\Debug\net6.0\4-SentenciaIf.dll
+C:\Desarrollos\C#\1-Variables\SentenciaIf\bin\Debug\net6.0\4-SentenciaIf.pdb
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.dll
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\refint\4-SentenciaIf.dll
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.pdb
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\4-SentenciaIf.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\SentenciaIf\obj\Debug\net6.0\ref\4-SentenciaIf.dll

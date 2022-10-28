@@ -1,0 +1,15 @@
+C:\Desarrollos\C#\1-Variables\Interface\bin\Debug\net6.0\15-Interface.exe
+C:\Desarrollos\C#\1-Variables\Interface\bin\Debug\net6.0\15-Interface.deps.json
+C:\Desarrollos\C#\1-Variables\Interface\bin\Debug\net6.0\15-Interface.runtimeconfig.json
+C:\Desarrollos\C#\1-Variables\Interface\bin\Debug\net6.0\15-Interface.dll
+C:\Desarrollos\C#\1-Variables\Interface\bin\Debug\net6.0\15-Interface.pdb
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.csproj.AssemblyReference.cache
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.AssemblyInfoInputs.cache
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.AssemblyInfo.cs
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.csproj.CoreCompileInputs.cache
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.dll
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\refint\15-Interface.dll
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.pdb
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\15-Interface.genruntimeconfig.cache
+C:\Desarrollos\C#\1-Variables\Interface\obj\Debug\net6.0\ref\15-Interface.dll
