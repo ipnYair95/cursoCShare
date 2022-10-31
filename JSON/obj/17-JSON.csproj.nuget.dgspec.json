@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollos\\C#\\1-Variables\\JSON\\17-JSON.csproj": {}
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\JSON\\17-JSON.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollos\\C#\\1-Variables\\JSON\\17-JSON.csproj": {
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\JSON\\17-JSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\C#\\1-Variables\\JSON\\17-JSON.csproj",
+        "projectUniqueName": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\JSON\\17-JSON.csproj",
         "projectName": "17-JSON",
-        "projectPath": "C:\\Desarrollos\\C#\\1-Variables\\JSON\\17-JSON.csproj",
-        "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\C#\\1-Variables\\JSON\\obj\\",
+        "projectPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\JSON\\17-JSON.csproj",
+        "packagesPath": "C:\\Users\\edgar.marin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\JSON\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\T450s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edgar.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollos\\C#\\1-Variables\\BaseDeDatos\\24-BaseDeDatos.csproj": {}
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\BaseDeDatos\\24-BaseDeDatos.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollos\\C#\\1-Variables\\BaseDeDatos\\24-BaseDeDatos.csproj": {
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\BaseDeDatos\\24-BaseDeDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\C#\\1-Variables\\BaseDeDatos\\24-BaseDeDatos.csproj",
+        "projectUniqueName": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\BaseDeDatos\\24-BaseDeDatos.csproj",
         "projectName": "24-BaseDeDatos",
-        "projectPath": "C:\\Desarrollos\\C#\\1-Variables\\BaseDeDatos\\24-BaseDeDatos.csproj",
-        "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\C#\\1-Variables\\BaseDeDatos\\obj\\",
+        "projectPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\BaseDeDatos\\24-BaseDeDatos.csproj",
+        "packagesPath": "C:\\Users\\edgar.marin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\BaseDeDatos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\T450s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edgar.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

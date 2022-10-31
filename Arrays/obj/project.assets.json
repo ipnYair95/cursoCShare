@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\T450s\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\edgar.marin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desarrollos\\C#\\1-Variables\\Arrays\\6-Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Arrays\\6-Arrays.csproj",
       "projectName": "6-Arrays",
-      "projectPath": "C:\\Desarrollos\\C#\\1-Variables\\Arrays\\6-Arrays.csproj",
-      "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-      "outputPath": "C:\\Desarrollos\\C#\\1-Variables\\Arrays\\obj\\",
+      "projectPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Arrays\\6-Arrays.csproj",
+      "packagesPath": "C:\\Users\\edgar.marin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\T450s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edgar.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

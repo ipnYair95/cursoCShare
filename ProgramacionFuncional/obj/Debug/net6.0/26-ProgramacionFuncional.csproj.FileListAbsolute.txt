@@ -1,0 +1,15 @@
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\bin\Debug\net6.0\26-ProgramacionFuncional.exe
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\bin\Debug\net6.0\26-ProgramacionFuncional.deps.json
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\bin\Debug\net6.0\26-ProgramacionFuncional.runtimeconfig.json
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\bin\Debug\net6.0\26-ProgramacionFuncional.dll
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\bin\Debug\net6.0\26-ProgramacionFuncional.pdb
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.csproj.AssemblyReference.cache
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.AssemblyInfoInputs.cache
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.AssemblyInfo.cs
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.csproj.CoreCompileInputs.cache
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.dll
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\refint\26-ProgramacionFuncional.dll
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.pdb
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\26-ProgramacionFuncional.genruntimeconfig.cache
+C:\Users\edgar.marin\Desktop\cursoCShare\ProgramacionFuncional\obj\Debug\net6.0\ref\26-ProgramacionFuncional.dll

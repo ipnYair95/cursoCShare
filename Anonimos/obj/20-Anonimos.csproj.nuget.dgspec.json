@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollos\\C#\\1-Variables\\Anonimos\\20-Anonimos.csproj": {}
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Anonimos\\20-Anonimos.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollos\\C#\\1-Variables\\Anonimos\\20-Anonimos.csproj": {
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Anonimos\\20-Anonimos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\C#\\1-Variables\\Anonimos\\20-Anonimos.csproj",
+        "projectUniqueName": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Anonimos\\20-Anonimos.csproj",
         "projectName": "20-Anonimos",
-        "projectPath": "C:\\Desarrollos\\C#\\1-Variables\\Anonimos\\20-Anonimos.csproj",
-        "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\C#\\1-Variables\\Anonimos\\obj\\",
+        "projectPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Anonimos\\20-Anonimos.csproj",
+        "packagesPath": "C:\\Users\\edgar.marin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\Anonimos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\T450s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edgar.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

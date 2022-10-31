@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollos\\C#\\1-Variables\\2-TipoDato\\2-TipoDato.csproj": {}
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\2-TipoDato\\2-TipoDato.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollos\\C#\\1-Variables\\2-TipoDato\\2-TipoDato.csproj": {
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\2-TipoDato\\2-TipoDato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\C#\\1-Variables\\2-TipoDato\\2-TipoDato.csproj",
+        "projectUniqueName": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\2-TipoDato\\2-TipoDato.csproj",
         "projectName": "2-TipoDato",
-        "projectPath": "C:\\Desarrollos\\C#\\1-Variables\\2-TipoDato\\2-TipoDato.csproj",
-        "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\C#\\1-Variables\\2-TipoDato\\obj\\",
+        "projectPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\2-TipoDato\\2-TipoDato.csproj",
+        "packagesPath": "C:\\Users\\edgar.marin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\2-TipoDato\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\T450s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edgar.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

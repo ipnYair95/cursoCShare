@@ -7,7 +7,7 @@
 
             try
             {
-                BeerDB beerDb = new BeerDB(@"DESKTOP-TGF2J9S", "CSharpDb", "", "");
+                BeerDB beerDb = new BeerDB(@"EDGARMARIN640G4", "CSharpDb", "", "");
                 bool again = true;
                 int op = 0;
 

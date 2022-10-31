@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desarrollos\\C#\\1-Variables\\ForEach\\19-ForEach.csproj": {}
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\ForEach\\19-ForEach.csproj": {}
   },
   "projects": {
-    "C:\\Desarrollos\\C#\\1-Variables\\ForEach\\19-ForEach.csproj": {
+    "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\ForEach\\19-ForEach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desarrollos\\C#\\1-Variables\\ForEach\\19-ForEach.csproj",
+        "projectUniqueName": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\ForEach\\19-ForEach.csproj",
         "projectName": "19-ForEach",
-        "projectPath": "C:\\Desarrollos\\C#\\1-Variables\\ForEach\\19-ForEach.csproj",
-        "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-        "outputPath": "C:\\Desarrollos\\C#\\1-Variables\\ForEach\\obj\\",
+        "projectPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\ForEach\\19-ForEach.csproj",
+        "packagesPath": "C:\\Users\\edgar.marin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgar.marin\\Desktop\\cursoCShare\\ForEach\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\T450s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edgar.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
